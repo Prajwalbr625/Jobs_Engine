@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Jobs_Engine
 =======
 # IT Jobs Alert Engine 🚀
