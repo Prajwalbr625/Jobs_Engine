@@ -45,10 +45,6 @@ class StaticSiteGenerator:
             
         # 5. Copy Assets (if any) - None for now as CSS is inline
         
-        # 6. Create CNAME for custom domain
-        with open(f"{self.output_dir}/CNAME", "w") as f:
-            f.write("highfivewebsite.me")
-            
         logger.info(f"Static Site Build Complete. Generated {len(jobs)} pages in '{self.output_dir}/'")
 
     def _get_layout(self):
