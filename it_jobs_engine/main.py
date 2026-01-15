@@ -91,12 +91,15 @@ def run_cycle():
         # Mark as published
         db.mark_published(job_hash, tele_status, blog_status)
 
-        if new_jobs_count > 0:
-            logger.info("New jobs found, triggering static site build...")
-            from src.processors.static_generator import StaticSiteGenerator
-            generator = StaticSiteGenerator()
-            generator.build()
-            
+    # Always rebuild static site at the end of cycle to ensure fresh content/timestamps
+    logger.info("Triggering static site build...")
+    try:
+        from src.processors.static_generator import StaticSiteGenerator
+        generator = StaticSiteGenerator()
+        generator.build()
+    except Exception as e:
+        logger.error(f"Failed to build static site: {e}")
+
     logger.info("Cycle completed.")
 
 def main():
