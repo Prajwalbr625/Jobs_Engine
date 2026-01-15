@@ -1,0 +1,206 @@
+2026-01-15 18:00:10,245 - it_jobs_engine - ERROR - Error fetching https://www.python.org/jobs/: HTTPSConnectionPool(host='www.python.org', port=443): Max retries exceeded with url: /jobs/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+2026-01-15 18:00:10,254 - it_jobs_engine - INFO - Database initialized successfully.
+2026-01-15 18:00:44,723 - it_jobs_engine - INFO - Fetched 25 jobs from Python.org
+2026-01-15 18:00:44,727 - it_jobs_engine - INFO - Database initialized successfully.
+2026-01-15 18:00:44,728 - it_jobs_engine - INFO - Saved new job: Senior Django Developer at NewSKYCATCHFIRE
+2026-01-15 18:00:44,728 - it_jobs_engine - INFO - Saved new job: Senior Data Privacy Software Developer at NewOpenDP / Harvard University
+2026-01-15 18:00:44,730 - it_jobs_engine - INFO - Saved new job: Senior Backend Python Developer at NewKanmalai Technologies
+2026-01-15 18:00:44,731 - it_jobs_engine - INFO - Saved new job: Senior Back-End Python Engineer - FULLY REMOTE-WORLDWIDE at NewActivePrime, Inc.
+2026-01-15 18:00:44,732 - it_jobs_engine - INFO - Saved new job: DevOps Engineer-FULLY REMOTE at NewActivePrime, Inc.
+2026-01-15 18:00:44,733 - it_jobs_engine - INFO - Saved new job: Lead Python Backend Engineer at NewReef Technologies
+2026-01-15 18:00:44,734 - it_jobs_engine - INFO - Saved new job: Senior Python Developer at NewCial Dun & Bradstreet
+2026-01-15 18:00:44,734 - it_jobs_engine - INFO - Saved new job: Developer, Senior at NewIllumen Group Inc.
+2026-01-15 18:00:44,735 - it_jobs_engine - INFO - Saved new job: Senior Python Backend Engineer at NewReef Technologies
+2026-01-15 18:00:44,736 - it_jobs_engine - INFO - Saved new job: Founding Full-Stack Senior Engineer (UK ONLY) - Fully Remote at MyDataValue
+2026-01-15 18:00:44,736 - it_jobs_engine - INFO - Saved new job: AI Engineer at Adaptify
+2026-01-15 18:00:44,737 - it_jobs_engine - INFO - Saved new job: Senior Python/DevOps Enginner at ActivePrime
+2026-01-15 18:00:44,739 - it_jobs_engine - INFO - Saved new job: Director, Ratings AI at Fitch Ratings
+2026-01-15 18:00:44,772 - it_jobs_engine - INFO - Saved new job: Python / Django Developer at Client of Foxley Talent
+2026-01-15 18:00:44,774 - it_jobs_engine - INFO - Saved new job: Staff Software Engineer at Bluebird Kids Health
+2026-01-15 18:00:44,778 - it_jobs_engine - INFO - Saved new job: Experienced Software Engineer — Systems at Hudson River Trading
+2026-01-15 18:00:44,781 - it_jobs_engine - INFO - Saved new job: Privacy Engineer, Data Privacy Lab at Center for Effective Global Action
+2026-01-15 18:00:44,786 - it_jobs_engine - INFO - Saved new job: Senior Ground Software Engineer at E-Space
+2026-01-15 18:00:44,796 - it_jobs_engine - INFO - Saved new job: Backend Engineering Specialist (Full Time) at Mercor
+2026-01-15 18:00:44,798 - it_jobs_engine - INFO - Saved new job: Senior Back-End Developer at Showcare
+2026-01-15 18:00:44,800 - it_jobs_engine - INFO - Saved new job: Senior Software Engineer at Known
+2026-01-15 18:00:44,800 - it_jobs_engine - INFO - Saved new job: Lead Python Developer at United Wholesale Mortgage
+2026-01-15 18:00:44,801 - it_jobs_engine - INFO - Saved new job: AI Automation & Integration Engineer at Hoodie Analytics
+2026-01-15 18:00:44,802 - it_jobs_engine - INFO - Saved new job: Python developer (3-5 years experience) needed on strong team at Naia Corporation
+2026-01-15 18:00:44,803 - it_jobs_engine - INFO - Saved new job: Tech Leader at Domainsbot Inc.
+2026-01-15 18:00:47,026 - it_jobs_engine - INFO - Starting job fetch cycle...
+2026-01-15 18:00:47,027 - it_jobs_engine - INFO - Database initialized successfully.
+2026-01-15 18:00:50,255 - it_jobs_engine - INFO - Fetched 25 jobs from Python.org
+2026-01-15 18:00:50,261 - it_jobs_engine - INFO - No new jobs found this cycle.
+2026-01-15 18:01:21,891 - it_jobs_engine - INFO - Starting job fetch cycle...
+2026-01-15 18:01:21,895 - it_jobs_engine - INFO - Database initialized successfully.
+2026-01-15 18:01:32,353 - it_jobs_engine - INFO - Fetched 25 jobs from Python.org
+2026-01-15 18:01:32,361 - it_jobs_engine - INFO - No new jobs found this cycle, but checking for pending jobs...
+2026-01-15 18:01:32,361 - it_jobs_engine - INFO - Processing 25 pending jobs...
+2026-01-15 18:01:32,362 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:01:32,362 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:01:32,362 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:01:32,364 - it_jobs_engine - INFO - Marked job 5c797d6e0ce82617f5b2fcf2172da161 as published.
+2026-01-15 18:01:32,364 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:01:32,364 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:01:32,364 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:01:32,365 - it_jobs_engine - INFO - Marked job e3eb56fc493566cbc25c0972bac1240d as published.
+2026-01-15 18:01:32,365 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:01:32,365 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:01:32,365 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:01:32,366 - it_jobs_engine - INFO - Marked job 3d97646934daf791620d9ca4ad4fdf3b as published.
+2026-01-15 18:01:32,366 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:01:32,366 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:01:32,366 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:01:32,368 - it_jobs_engine - INFO - Marked job 84d1569d4e72bd8dd1a487505cec259d as published.
+2026-01-15 18:01:32,368 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:01:32,368 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:01:32,368 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:01:32,370 - it_jobs_engine - INFO - Marked job d6f3e5e6dd2e71c03d587770fecdd309 as published.
+2026-01-15 18:01:32,370 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:01:32,370 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:01:32,370 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:01:32,371 - it_jobs_engine - INFO - Marked job 73a25a49e1fe887c36d325acaeb7491d as published.
+2026-01-15 18:01:32,371 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:01:32,371 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:01:32,371 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:01:32,372 - it_jobs_engine - INFO - Marked job 584571491d16928e20f7c401b68d6665 as published.
+2026-01-15 18:01:32,372 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:01:32,373 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:01:32,373 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:01:32,373 - it_jobs_engine - INFO - Marked job 6a4e9e66c68918530ee3fde2c5fa5433 as published.
+2026-01-15 18:01:32,374 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:01:32,374 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:01:32,374 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:01:32,374 - it_jobs_engine - INFO - Marked job 835464fc8f735d6164f83dc0f481ab7b as published.
+2026-01-15 18:01:32,374 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:01:32,374 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:01:32,375 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:01:32,375 - it_jobs_engine - INFO - Marked job d99f3a811d9ff365a5306acdd5fe8f01 as published.
+2026-01-15 18:01:32,375 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:01:32,375 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:01:32,376 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:01:32,376 - it_jobs_engine - INFO - Marked job 822f3ba1a59eea9924df2d3e2f2b1fc2 as published.
+2026-01-15 18:01:32,376 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:01:32,376 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:01:32,376 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:01:32,377 - it_jobs_engine - INFO - Marked job cf3d6d8b7d77b3694c71dad00ffb2c60 as published.
+2026-01-15 18:01:32,377 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:01:32,377 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:01:32,377 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:01:32,380 - it_jobs_engine - INFO - Marked job 4c733ad5e5734ef427c75a77da658905 as published.
+2026-01-15 18:01:32,381 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:01:32,381 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:01:32,381 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:01:32,382 - it_jobs_engine - INFO - Marked job 635ccb9850f292ccce18c0762d6fb387 as published.
+2026-01-15 18:01:32,382 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:01:32,382 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:01:32,382 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:01:32,383 - it_jobs_engine - INFO - Marked job 3a3a387ef64e603ffc6c287f3701fa0c as published.
+2026-01-15 18:01:32,383 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:01:32,383 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:01:32,383 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:01:32,384 - it_jobs_engine - INFO - Marked job d39b1471be7c0f56d942ea41869a1800 as published.
+2026-01-15 18:01:32,384 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:01:32,384 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:01:32,384 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:01:32,385 - it_jobs_engine - INFO - Marked job 55e0c1ac86af54132bad82efdabd6843 as published.
+2026-01-15 18:01:32,385 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:01:32,385 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:01:32,385 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:01:32,386 - it_jobs_engine - INFO - Marked job 4616a082f00fa46fd3264ceaec811d6f as published.
+2026-01-15 18:01:32,386 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:01:32,386 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:01:32,386 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:01:32,387 - it_jobs_engine - INFO - Marked job aee687cb8ad967666957d5cc803290ce as published.
+2026-01-15 18:01:32,387 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:01:32,387 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:01:32,387 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:01:32,388 - it_jobs_engine - INFO - Marked job 325d9da41a5c00f4137d0b78617068f2 as published.
+2026-01-15 18:01:32,388 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:01:32,388 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:01:32,388 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:01:32,389 - it_jobs_engine - INFO - Marked job aac47f77e132664861b51fd1727b8bab as published.
+2026-01-15 18:01:32,389 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:01:32,389 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:01:32,389 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:01:32,390 - it_jobs_engine - INFO - Marked job c0be38cefc0cbe70a83cc601282ce8da as published.
+2026-01-15 18:01:32,390 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:01:32,390 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:01:32,390 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:01:32,391 - it_jobs_engine - INFO - Marked job 55204bed6183562ef3b3044e0f01ade0 as published.
+2026-01-15 18:01:32,391 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:01:32,391 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:01:32,391 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:01:32,392 - it_jobs_engine - INFO - Marked job 9bce743c460a40df85991f31f9931cfd as published.
+2026-01-15 18:01:32,392 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:01:32,392 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:01:32,392 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:01:32,392 - it_jobs_engine - INFO - Marked job 428451c8832aaf7510194ed870685419 as published.
+2026-01-15 18:01:32,392 - it_jobs_engine - INFO - Cycle completed.
+2026-01-15 18:15:00,129 - it_jobs_engine - INFO - Starting job fetch cycle...
+2026-01-15 18:15:00,133 - it_jobs_engine - INFO - Database initialized successfully.
+2026-01-15 18:15:00,598 - it_jobs_engine - INFO - Fetched 25 jobs from Python.org
+2026-01-15 18:15:00,604 - it_jobs_engine - INFO - Starting LinkedIn static fetch...
+2026-01-15 18:15:01,822 - it_jobs_engine - INFO - Found 10 potential job cards on LinkedIn
+2026-01-15 18:15:01,824 - it_jobs_engine - INFO - Fetched 10 jobs from LinkedIn
+2026-01-15 18:15:01,831 - it_jobs_engine - INFO - Saved new job: Software Engineer at Microsoft
+2026-01-15 18:15:01,832 - it_jobs_engine - INFO - Saved new job: SDE 1 - Frontend at Jar
+2026-01-15 18:15:01,833 - it_jobs_engine - INFO - Saved new job: Software Engineer at Microsoft
+2026-01-15 18:15:01,835 - it_jobs_engine - INFO - Saved new job: Software Engineer at Microsoft
+2026-01-15 18:15:01,836 - it_jobs_engine - INFO - Saved new job: Software Engineer 1 at Intuit
+2026-01-15 18:15:01,838 - it_jobs_engine - INFO - Saved new job: SDE - 1 Android at Jar
+2026-01-15 18:15:01,839 - it_jobs_engine - INFO - Saved new job: Software Engineer at Microsoft
+2026-01-15 18:15:01,840 - it_jobs_engine - INFO - Saved new job: Software Developer 1 at Oracle
+2026-01-15 18:15:01,841 - it_jobs_engine - INFO - Saved new job: Software Developer 1 at Oracle
+2026-01-15 18:15:01,842 - it_jobs_engine - INFO - Saved new job: Software Engineer at Microsoft
+2026-01-15 18:15:01,842 - it_jobs_engine - WARNING - Naukri fetcher requires JavaScript/Playwright (not available on Python 3.14). Skipping.
+2026-01-15 18:15:01,844 - it_jobs_engine - INFO - Processing 10 pending jobs...
+2026-01-15 18:15:01,844 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:15:01,844 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:15:01,844 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:15:01,846 - it_jobs_engine - INFO - Marked job 76b62be405b1bcfff3389e6af07df9d6 as published.
+2026-01-15 18:15:01,846 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:15:01,846 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:15:01,846 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:15:01,847 - it_jobs_engine - INFO - Marked job 35b12a7f86977f45d9dcdf484c8b3a19 as published.
+2026-01-15 18:15:01,847 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:15:01,847 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:15:01,847 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:15:01,849 - it_jobs_engine - INFO - Marked job abfa8100f2e9b211ef44b5d8e11b4be1 as published.
+2026-01-15 18:15:01,849 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:15:01,850 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:15:01,850 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:15:01,851 - it_jobs_engine - INFO - Marked job a0141ad11fa50e9bb4e2c6835e34d487 as published.
+2026-01-15 18:15:01,851 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:15:01,851 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:15:01,851 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:15:01,852 - it_jobs_engine - INFO - Marked job 20b1da1dfd0f64fec7a05c448759c1fe as published.
+2026-01-15 18:15:01,852 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:15:01,852 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:15:01,852 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:15:01,853 - it_jobs_engine - INFO - Marked job 3b5c6334b103308c8d09e264319b5509 as published.
+2026-01-15 18:15:01,853 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:15:01,853 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:15:01,853 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:15:01,854 - it_jobs_engine - INFO - Marked job 0145375d83c2cb05febecd0b28c2d58c as published.
+2026-01-15 18:15:01,854 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:15:01,854 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:15:01,854 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:15:01,855 - it_jobs_engine - INFO - Marked job b1947dd240ce21942aa1391487ad24f3 as published.
+2026-01-15 18:15:01,855 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:15:01,855 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:15:01,855 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:15:01,856 - it_jobs_engine - INFO - Marked job 2ec9894bc74de43e15410cf6a96ced6e as published.
+2026-01-15 18:15:01,857 - it_jobs_engine - WARNING - Telegram credentials missing. Skipping publish.
+2026-01-15 18:15:01,857 - it_jobs_engine - WARNING - Blog API URL missing. Skipping publish.
+2026-01-15 18:15:01,857 - it_jobs_engine - INFO - LinkedIn publishing not configured. Logging content.
+2026-01-15 18:15:01,857 - it_jobs_engine - INFO - Marked job 3242a1e82f1a7caed711ac989a5ee731 as published.
+2026-01-15 18:15:01,858 - it_jobs_engine - INFO - Cycle completed.
+2026-01-15 18:17:08,730 - it_jobs_engine - INFO - Starting job fetch cycle...
+2026-01-15 18:17:08,733 - it_jobs_engine - INFO - Database initialized successfully.
+2026-01-15 18:17:08,734 - it_jobs_engine - INFO - Starting LinkedIn static fetch...
+2026-01-15 18:17:10,045 - it_jobs_engine - INFO - Found 10 potential job cards on LinkedIn
+2026-01-15 18:17:10,047 - it_jobs_engine - INFO - Fetched 10 jobs from LinkedIn
+2026-01-15 18:17:10,051 - it_jobs_engine - INFO - No new jobs found this cycle, but checking for pending jobs...
+2026-01-15 18:17:10,051 - it_jobs_engine - INFO - Processing 0 pending jobs...
+2026-01-15 18:17:10,051 - it_jobs_engine - INFO - Cycle completed.

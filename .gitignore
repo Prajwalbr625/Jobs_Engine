@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+it_jobs_engine/data/jobs.db
+docs/

@@ -1,0 +1,47 @@
+name: Fetch & Deploy Jobs
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Run every hour
+  workflow_dispatch:      # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          pip install -r it_jobs_engine/requirements.txt
+
+      - name: Run Scraper & Build
+        env:
+          # Set env vars if you use real APIs (Add to Repo Secrets)
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+        run: |
+          # Ensure data dir exists
+          mkdir -p it_jobs_engine/data
+          # Initialize empty DB if not exists (GitHub Actions are stateless unless we commit DB, 
+          # but for static site strictly we might want to commit DB or just rebuild from fresh scrape every time. 
+          # Ideally, we should pull the existing DB or use an external DB. 
+          # For this Simple Static version, we will scrape fresh every time OR commit the DB back.)
+          
+          # Run the engine (fetches and builds docs/ folder)
+          python it_jobs_engine/main.py --once
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
